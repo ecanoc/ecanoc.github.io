@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Musicology on Estefanía Cano</title>
+    <link>https://ecanoc.github.io/tags/computational-musicology/</link>
+    <description>Recent content in Computational Musicology on Estefanía Cano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://ecanoc.github.io/tags/computational-musicology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ACMus</title>
+      <link>https://ecanoc.github.io/project/acmus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecanoc.github.io/project/acmus/</guid>
+      <description>Computational musicology, machine learning and Colombian music.</description>
+    </item>
+    
+    <item>
+      <title>The Scottish fiddle</title>
+      <link>https://ecanoc.github.io/project/fiddle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecanoc.github.io/project/fiddle/</guid>
+      <description>Analysis of micro-timing variations in Shetland fiddle music.</description>
+    </item>
+    
+  </channel>
+</rss>

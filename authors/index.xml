@@ -1,14 +1,105 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Estefanía Cano C</title>
+    <title>Authors on Estefanía Cano</title>
     <link>https://ecanoc.github.io/authors/</link>
-    <description>Recent content in Authors on Estefanía Cano C</description>
+    <description>Recent content in Authors on Estefanía Cano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 20 Aug 2019 21:56:02 +0800</lastBuildDate>
     
 	<atom:link href="https://ecanoc.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Antoine Liutkus</title>
+      <link>https://ecanoc.github.io/authors/antoine-liutkus/</link>
+      <pubDate>Tue, 20 Aug 2019 21:56:02 +0800</pubDate>
+      
+      <guid>https://ecanoc.github.io/authors/antoine-liutkus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Derry Fitzgerald</title>
+      <link>https://ecanoc.github.io/authors/derry-fitzgerald/</link>
+      <pubDate>Tue, 20 Aug 2019 21:56:02 +0800</pubDate>
+      
+      <guid>https://ecanoc.github.io/authors/derry-fitzgerald/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estefanía Cano</title>
+      <link>https://ecanoc.github.io/authors/estefan%C3%ADa-cano/</link>
+      <pubDate>Tue, 20 Aug 2019 21:56:02 +0800</pubDate>
+      
+      <guid>https://ecanoc.github.io/authors/estefan%C3%ADa-cano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabian Stöter</title>
+      <link>https://ecanoc.github.io/authors/fabian-st%C3%B6ter/</link>
+      <pubDate>Tue, 20 Aug 2019 21:56:02 +0800</pubDate>
+      
+      <guid>https://ecanoc.github.io/authors/fabian-st%C3%B6ter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Plumbley</title>
+      <link>https://ecanoc.github.io/authors/mark-plumbley/</link>
+      <pubDate>Tue, 20 Aug 2019 21:56:02 +0800</pubDate>
+      
+      <guid>https://ecanoc.github.io/authors/mark-plumbley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott Beveridge</title>
+      <link>https://ecanoc.github.io/authors/scott-beveridge/</link>
+      <pubDate>Tue, 20 Aug 2019 21:55:53 +0800</pubDate>
+      
+      <guid>https://ecanoc.github.io/authors/scott-beveridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hanna Lukashvich</title>
+      <link>https://ecanoc.github.io/authors/hanna-lukashvich/</link>
+      <pubDate>Tue, 20 Aug 2019 21:55:35 +0800</pubDate>
+      
+      <guid>https://ecanoc.github.io/authors/hanna-lukashvich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernando Mora-Ángel</title>
+      <link>https://ecanoc.github.io/authors/fernando-mora-%C3%A1ngel/</link>
+      <pubDate>Thu, 01 Aug 2019 19:34:03 +0800</pubDate>
+      
+      <guid>https://ecanoc.github.io/authors/fernando-mora-%C3%A1ngel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gustavo López Gil</title>
+      <link>https://ecanoc.github.io/authors/gustavo-l%C3%B3pez-gil/</link>
+      <pubDate>Thu, 01 Aug 2019 19:34:03 +0800</pubDate>
+      
+      <guid>https://ecanoc.github.io/authors/gustavo-l%C3%B3pez-gil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sascha Grollmisch</title>
+      <link>https://ecanoc.github.io/authors/sascha-grollmisch/</link>
+      <pubDate>Thu, 01 Aug 2019 19:34:03 +0800</pubDate>
+      
+      <guid>https://ecanoc.github.io/authors/sascha-grollmisch/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -16,8 +107,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecanoc.github.io/authors/admin/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</description>
+      <description>I am a research scientist at the Agency for Science, Technology and Research A*STAR in Singapore with a joint appointment with the Semantic Music Technologies group at Fraunhofer IDMT in Germany. My PhD work started off from my interest to apply MIR technologies in music education. Since then, I have worked in sound source separation, music information retrieval, computational musicology, audio processing, among other research topics. Since 2012, I am the CSO and co-founder of Songquito, a small company that builds music education apps such as Song2See.</description>
     </item>
     
   </channel>

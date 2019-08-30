@@ -1,14 +1,87 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Estefanía Cano C</title>
+    <title>Estefanía Cano</title>
     <link>https://ecanoc.github.io/</link>
-    <description>Recent content on Estefanía Cano C</description>
+    <description>Recent content on Estefanía Cano</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 20 Aug 2019 21:56:02 +0800</lastBuildDate>
     
 	    <atom:link href="https://ecanoc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Musical Source Separation: An Introduction</title>
+      <link>https://ecanoc.github.io/publication/spm19/</link>
+      <pubDate>Tue, 20 Aug 2019 21:56:02 +0800</pubDate>
+      
+      <guid>https://ecanoc.github.io/publication/spm19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microtiming analyisis in traditional Shetland Fiddle Music</title>
+      <link>https://ecanoc.github.io/publication/ismir19/</link>
+      <pubDate>Tue, 20 Aug 2019 21:55:53 +0800</pubDate>
+      
+      <guid>https://ecanoc.github.io/publication/ismir19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Hearing: A Machine Listening perspective</title>
+      <link>https://ecanoc.github.io/publication/mmsp19/</link>
+      <pubDate>Tue, 20 Aug 2019 21:55:35 +0800</pubDate>
+      
+      <guid>https://ecanoc.github.io/publication/mmsp19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble size classification in Colombian Andean string music recordings</title>
+      <link>https://ecanoc.github.io/publication/cmmr19/</link>
+      <pubDate>Thu, 01 Aug 2019 19:34:03 +0800</pubDate>
+      
+      <guid>https://ecanoc.github.io/publication/cmmr19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ACMus</title>
+      <link>https://ecanoc.github.io/project/acmus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecanoc.github.io/project/acmus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Education</title>
+      <link>https://ecanoc.github.io/project/musiced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecanoc.github.io/project/musiced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound Source Separation</title>
+      <link>https://ecanoc.github.io/project/soundseparation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecanoc.github.io/project/soundseparation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Scottish fiddle</title>
+      <link>https://ecanoc.github.io/project/fiddle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecanoc.github.io/project/fiddle/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

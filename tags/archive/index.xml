@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archive on Estefanía Cano</title>
+    <link>https://ecanoc.github.io/tags/archive/</link>
+    <description>Recent content in Archive on Estefanía Cano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://ecanoc.github.io/tags/archive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Audio Digitization</title>
+      <link>https://ecanoc.github.io/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecanoc.github.io/project/project1/</guid>
+      <description>SIL Americas Area project to digitize analogue audio mediums.</description>
+    </item>
+    
+    <item>
+      <title>Audio Digitization 1</title>
+      <link>https://ecanoc.github.io/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecanoc.github.io/project/project2/</guid>
+      <description>SIL Americas Area project to digitize analogue audio mediums.</description>
+    </item>
+    
+  </channel>
+</rss>
