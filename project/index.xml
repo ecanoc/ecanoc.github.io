@@ -1,49 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Estefanía Cano</title>
+    <title>Projects | Estefanía Cano</title>
     <link>https://ecanoc.github.io/project/</link>
-    <description>Recent content in Projects on Estefanía Cano</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://ecanoc.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ecanoc.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://ecanoc.github.io/img/logoecanoc.png</url>
+      <title>Projects</title>
+      <link>https://ecanoc.github.io/project/</link>
+    </image>
     
     <item>
       <title>ACMus</title>
       <link>https://ecanoc.github.io/project/acmus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ecanoc.github.io/project/acmus/</guid>
-      <description>Computational musicology, machine learning and Colombian music.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Music Education</title>
       <link>https://ecanoc.github.io/project/musiced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ecanoc.github.io/project/musiced/</guid>
-      <description>Technologies and MIR for music education.</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Information Retrieval</title>
+      <link>https://ecanoc.github.io/project/mir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ecanoc.github.io/project/mir/</guid>
+      <description>&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; url=../../mir/&#34; /&gt;
+</description>
     </item>
     
     <item>
       <title>Sound Source Separation</title>
       <link>https://ecanoc.github.io/project/soundseparation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ecanoc.github.io/project/soundseparation/</guid>
-      <description>Sound source separation applied to music and audio.</description>
+      <description></description>
     </item>
     
     <item>
       <title>The Scottish fiddle</title>
       <link>https://ecanoc.github.io/project/fiddle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ecanoc.github.io/project/fiddle/</guid>
-      <description>Analysis of micro-timing variations in Shetland fiddle music.</description>
+      <description></description>
     </item>
     
   </channel>

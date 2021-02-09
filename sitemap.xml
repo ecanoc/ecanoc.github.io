@@ -1,41 +1,130 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ecanoc.github.io/publication_types/1/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/authors/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/tags/deep-learning/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/authors/emilia-gomez/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/authors/estefania-cano/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/authors/juan-sebastian-gomez-canon/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/tags/language/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/tags/music-emotion-recogntion/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/authors/perfecto-herrera/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/publication_types/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/tags/speech/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/tags/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/publication/eusipco20-2/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/publication_types/3/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/publication/eusipco20-1/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/authors/christian-kehling/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/tags/ensemble-size-classification/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/tags/instrument-recognition/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/authors/michael-taenzer/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/authors/sascha-grollmisch/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/tags/speech-music-discrimination/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecanoc.github.io/publication_types/2/</loc>
     <lastmod>2019-08-20T21:56:02+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ecanoc.github.io/authors/antoine-liutkus/</loc>
     <lastmod>2019-08-20T21:56:02+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ecanoc.github.io/authors/</loc>
-    <lastmod>2019-08-20T21:56:02+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ecanoc.github.io/authors/derry-fitzgerald/</loc>
     <lastmod>2019-08-20T21:56:02+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ecanoc.github.io/authors/estefan%C3%ADa-cano/</loc>
-    <lastmod>2019-08-20T21:56:02+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ecanoc.github.io/</loc>
-    <lastmod>2019-08-20T21:56:02+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -44,27 +133,23 @@
   </url>
   
   <url>
-    <loc>https://ecanoc.github.io/authors/fabian-st%C3%B6ter/</loc>
+    <loc>https://ecanoc.github.io/authors/fabian-stoter/</loc>
     <lastmod>2019-08-20T21:56:02+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ecanoc.github.io/authors/gerald-schuller/</loc>
     <lastmod>2019-08-20T21:56:02+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ecanoc.github.io/authors/konstantinos-drossos/</loc>
     <lastmod>2019-08-20T21:56:02+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ecanoc.github.io/authors/mark-plumbley/</loc>
     <lastmod>2019-08-20T21:56:02+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -73,21 +158,8 @@
   </url>
   
   <url>
-    <loc>https://ecanoc.github.io/publication_types/</loc>
-    <lastmod>2019-08-20T21:56:02+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ecanoc.github.io/authors/stylianos-mimilakis/</loc>
     <lastmod>2019-08-20T21:56:02+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ecanoc.github.io/publication_types/1/</loc>
-    <lastmod>2019-08-20T21:55:53+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -98,13 +170,11 @@
   <url>
     <loc>https://ecanoc.github.io/authors/scott-beveridge/</loc>
     <lastmod>2019-08-20T21:55:53+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ecanoc.github.io/authors/hanna-lukashevich/</loc>
     <lastmod>2019-08-20T21:55:35+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -118,21 +188,13 @@
   </url>
   
   <url>
-    <loc>https://ecanoc.github.io/authors/fernando-mora-%C3%A1ngel/</loc>
+    <loc>https://ecanoc.github.io/authors/fernando-mora-angel/</loc>
     <lastmod>2019-08-01T19:34:03+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ecanoc.github.io/authors/gustavo-l%C3%B3pez-gil/</loc>
+    <loc>https://ecanoc.github.io/authors/gustavo-lopez-gil/</loc>
     <lastmod>2019-08-01T19:34:03+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ecanoc.github.io/authors/sascha-grollmisch/</loc>
-    <lastmod>2019-08-01T19:34:03+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -145,26 +207,39 @@
   </url>
   
   <url>
+    <loc>https://ecanoc.github.io/mir/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/viewer/</loc>
+  </url>
+  
+  <url>
     <loc>https://ecanoc.github.io/project/acmus/</loc>
   </url>
   
   <url>
     <loc>https://ecanoc.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ecanoc.github.io/tags/computational-musicology/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/tags/mir/</loc>
   </url>
   
   <url>
     <loc>https://ecanoc.github.io/tags/music-education/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ecanoc.github.io/project/musiced/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/project/mir/</loc>
   </url>
   
   <url>
@@ -173,7 +248,6 @@
   
   <url>
     <loc>https://ecanoc.github.io/project/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -181,21 +255,19 @@
   </url>
   
   <url>
-    <loc>https://ecanoc.github.io/tags/separation/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ecanoc.github.io/project/soundseparation/</loc>
   </url>
   
   <url>
-    <loc>https://ecanoc.github.io/tags/</loc>
-    <priority>0</priority>
+    <loc>https://ecanoc.github.io/tags/source-separation/</loc>
   </url>
   
   <url>
     <loc>https://ecanoc.github.io/project/fiddle/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecanoc.github.io/tags/topics/</loc>
   </url>
   
 </urlset>

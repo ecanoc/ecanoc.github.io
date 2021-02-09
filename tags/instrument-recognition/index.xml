@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instrument recognition | Estefanía Cano</title>
+    <link>https://ecanoc.github.io/tags/instrument-recognition/</link>
+      <atom:link href="https://ecanoc.github.io/tags/instrument-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Instrument recognition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ecanoc.github.io/img/logoecanoc.png</url>
+      <title>Instrument recognition</title>
+      <link>https://ecanoc.github.io/tags/instrument-recognition/</link>
+    </image>
+    
+    <item>
+      <title>Analyzing the potential of pre-trained embeddings for audio classification tasks</title>
+      <link>https://ecanoc.github.io/publication/eusipco20-1/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecanoc.github.io/publication/eusipco20-1/</guid>
+      <description>&lt;p&gt;Detailed results can be found in 
+&lt;a href=&#34;https://acmus-mir.github.io/embeddings-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

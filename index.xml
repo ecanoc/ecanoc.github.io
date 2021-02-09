@@ -3,19 +3,37 @@
   <channel>
     <title>Estefanía Cano</title>
     <link>https://ecanoc.github.io/</link>
-    <description>Recent content on Estefanía Cano</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 20 Aug 2019 21:56:02 +0800</lastBuildDate>
+      <atom:link href="https://ecanoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Estefanía Cano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ecanoc.github.io/img/logoecanoc.png</url>
+      <title>Estefanía Cano</title>
+      <link>https://ecanoc.github.io/</link>
+    </image>
     
-	    <atom:link href="https://ecanoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transfer learning from speech to music: towards language-sensitive emotion recognition models</title>
+      <link>https://ecanoc.github.io/publication/eusipco20-2/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecanoc.github.io/publication/eusipco20-2/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Analyzing the potential of pre-trained embeddings for audio classification tasks</title>
+      <link>https://ecanoc.github.io/publication/eusipco20-1/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecanoc.github.io/publication/eusipco20-1/</guid>
+      <description>&lt;p&gt;Detailed results can be found in 
+&lt;a href=&#34;https://acmus-mir.github.io/embeddings-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Examining the Mapping Functions of Denoising Autoencoders in Singing Voice Separation</title>
       <link>https://ecanoc.github.io/publication/talsp20/</link>
       <pubDate>Tue, 20 Aug 2019 21:56:02 +0800</pubDate>
-      
       <guid>https://ecanoc.github.io/publication/talsp20/</guid>
       <description></description>
     </item>
@@ -24,7 +42,6 @@
       <title>Musical Source Separation: An Introduction</title>
       <link>https://ecanoc.github.io/publication/spm19/</link>
       <pubDate>Tue, 20 Aug 2019 21:56:02 +0800</pubDate>
-      
       <guid>https://ecanoc.github.io/publication/spm19/</guid>
       <description></description>
     </item>
@@ -33,7 +50,6 @@
       <title>Microtiming analyisis in traditional Shetland Fiddle Music</title>
       <link>https://ecanoc.github.io/publication/ismir19/</link>
       <pubDate>Tue, 20 Aug 2019 21:55:53 +0800</pubDate>
-      
       <guid>https://ecanoc.github.io/publication/ismir19/</guid>
       <description></description>
     </item>
@@ -42,7 +58,6 @@
       <title>Selective Hearing: A Machine Listening perspective</title>
       <link>https://ecanoc.github.io/publication/mmsp19/</link>
       <pubDate>Tue, 20 Aug 2019 21:55:35 +0800</pubDate>
-      
       <guid>https://ecanoc.github.io/publication/mmsp19/</guid>
       <description></description>
     </item>
@@ -51,8 +66,23 @@
       <title>Ensemble size classification in Colombian Andean string music recordings</title>
       <link>https://ecanoc.github.io/publication/cmmr19/</link>
       <pubDate>Thu, 01 Aug 2019 19:34:03 +0800</pubDate>
-      
       <guid>https://ecanoc.github.io/publication/cmmr19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ecanoc.github.io/mir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ecanoc.github.io/mir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ecanoc.github.io/viewer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ecanoc.github.io/viewer/</guid>
       <description></description>
     </item>
     
@@ -60,7 +90,6 @@
       <title>ACMus</title>
       <link>https://ecanoc.github.io/project/acmus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ecanoc.github.io/project/acmus/</guid>
       <description></description>
     </item>
@@ -69,16 +98,23 @@
       <title>Music Education</title>
       <link>https://ecanoc.github.io/project/musiced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ecanoc.github.io/project/musiced/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Music Information Retrieval</title>
+      <link>https://ecanoc.github.io/project/mir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ecanoc.github.io/project/mir/</guid>
+      <description>&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; url=../../mir/&#34; /&gt;
+</description>
     </item>
     
     <item>
       <title>Sound Source Separation</title>
       <link>https://ecanoc.github.io/project/soundseparation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ecanoc.github.io/project/soundseparation/</guid>
       <description></description>
     </item>
@@ -87,7 +123,6 @@
       <title>The Scottish fiddle</title>
       <link>https://ecanoc.github.io/project/fiddle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ecanoc.github.io/project/fiddle/</guid>
       <description></description>
     </item>

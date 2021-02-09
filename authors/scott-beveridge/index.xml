@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scott Beveridge on Estefanía Cano</title>
+    <title>Scott Beveridge | Estefanía Cano</title>
     <link>https://ecanoc.github.io/authors/scott-beveridge/</link>
-    <description>Recent content in Scott Beveridge on Estefanía Cano</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 20 Aug 2019 21:55:53 +0800</lastBuildDate>
-    
-	<atom:link href="https://ecanoc.github.io/authors/scott-beveridge/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ecanoc.github.io/authors/scott-beveridge/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scott Beveridge</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Aug 2019 21:55:53 +0800</lastBuildDate>
+    <image>
+      <url>https://ecanoc.github.io/img/logoecanoc.png</url>
+      <title>Scott Beveridge</title>
+      <link>https://ecanoc.github.io/authors/scott-beveridge/</link>
+    </image>
     
     <item>
       <title>Microtiming analyisis in traditional Shetland Fiddle Music</title>
       <link>https://ecanoc.github.io/publication/ismir19/</link>
       <pubDate>Tue, 20 Aug 2019 21:55:53 +0800</pubDate>
-      
       <guid>https://ecanoc.github.io/publication/ismir19/</guid>
       <description></description>
     </item>

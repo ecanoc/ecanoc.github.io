@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Music Education on Estefanía Cano</title>
+    <title>Music Education | Estefanía Cano</title>
     <link>https://ecanoc.github.io/tags/music-education/</link>
-    <description>Recent content in Music Education on Estefanía Cano</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://ecanoc.github.io/tags/music-education/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ecanoc.github.io/tags/music-education/index.xml" rel="self" type="application/rss+xml" />
+    <description>Music Education</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://ecanoc.github.io/img/logoecanoc.png</url>
+      <title>Music Education</title>
+      <link>https://ecanoc.github.io/tags/music-education/</link>
+    </image>
     
     <item>
       <title>Music Education</title>
       <link>https://ecanoc.github.io/project/musiced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://ecanoc.github.io/project/musiced/</guid>
-      <description>Technologies and MIR for music education.</description>
+      <description></description>
     </item>
     
   </channel>

@@ -1,21 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sascha Grollmisch on Estefanía Cano</title>
+    <title>Sascha Grollmisch | Estefanía Cano</title>
     <link>https://ecanoc.github.io/authors/sascha-grollmisch/</link>
-    <description>Recent content in Sascha Grollmisch on Estefanía Cano</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2019 19:34:03 +0800</lastBuildDate>
+      <atom:link href="https://ecanoc.github.io/authors/sascha-grollmisch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sascha Grollmisch</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ecanoc.github.io/img/logoecanoc.png</url>
+      <title>Sascha Grollmisch</title>
+      <link>https://ecanoc.github.io/authors/sascha-grollmisch/</link>
+    </image>
     
-	<atom:link href="https://ecanoc.github.io/authors/sascha-grollmisch/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Analyzing the potential of pre-trained embeddings for audio classification tasks</title>
+      <link>https://ecanoc.github.io/publication/eusipco20-1/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecanoc.github.io/publication/eusipco20-1/</guid>
+      <description>&lt;p&gt;Detailed results can be found in 
+&lt;a href=&#34;https://acmus-mir.github.io/embeddings-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ensemble size classification in Colombian Andean string music recordings</title>
       <link>https://ecanoc.github.io/publication/cmmr19/</link>
       <pubDate>Thu, 01 Aug 2019 19:34:03 +0800</pubDate>
-      
       <guid>https://ecanoc.github.io/publication/cmmr19/</guid>
       <description></description>
     </item>

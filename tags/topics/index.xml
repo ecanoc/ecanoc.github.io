@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics | Estefanía Cano</title>
+    <link>https://ecanoc.github.io/tags/topics/</link>
+      <atom:link href="https://ecanoc.github.io/tags/topics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Topics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://ecanoc.github.io/img/logoecanoc.png</url>
+      <title>Topics</title>
+      <link>https://ecanoc.github.io/tags/topics/</link>
+    </image>
+    
+    <item>
+      <title>ACMus</title>
+      <link>https://ecanoc.github.io/project/acmus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ecanoc.github.io/project/acmus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Education</title>
+      <link>https://ecanoc.github.io/project/musiced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ecanoc.github.io/project/musiced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music Information Retrieval</title>
+      <link>https://ecanoc.github.io/project/mir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ecanoc.github.io/project/mir/</guid>
+      <description>&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; url=../../mir/&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sound Source Separation</title>
+      <link>https://ecanoc.github.io/project/soundseparation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ecanoc.github.io/project/soundseparation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

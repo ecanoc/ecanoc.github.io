@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speech | Estefanía Cano</title>
+    <link>https://ecanoc.github.io/tags/speech/</link>
+      <atom:link href="https://ecanoc.github.io/tags/speech/index.xml" rel="self" type="application/rss+xml" />
+    <description>Speech</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ecanoc.github.io/img/logoecanoc.png</url>
+      <title>Speech</title>
+      <link>https://ecanoc.github.io/tags/speech/</link>
+    </image>
+    
+    <item>
+      <title>Transfer learning from speech to music: towards language-sensitive emotion recognition models</title>
+      <link>https://ecanoc.github.io/publication/eusipco20-2/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecanoc.github.io/publication/eusipco20-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

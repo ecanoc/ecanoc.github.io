@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estefanía Cano</title>
+    <link>https://ecanoc.github.io/authors/estefania-cano/</link>
+      <atom:link href="https://ecanoc.github.io/authors/estefania-cano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Estefanía Cano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ecanoc.github.io/img/logoecanoc.png</url>
+      <title>Estefanía Cano</title>
+      <link>https://ecanoc.github.io/authors/estefania-cano/</link>
+    </image>
+    
+    <item>
+      <title>Transfer learning from speech to music: towards language-sensitive emotion recognition models</title>
+      <link>https://ecanoc.github.io/publication/eusipco20-2/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecanoc.github.io/publication/eusipco20-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the potential of pre-trained embeddings for audio classification tasks</title>
+      <link>https://ecanoc.github.io/publication/eusipco20-1/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ecanoc.github.io/publication/eusipco20-1/</guid>
+      <description>&lt;p&gt;Detailed results can be found in 
+&lt;a href=&#34;https://acmus-mir.github.io/embeddings-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Examining the Mapping Functions of Denoising Autoencoders in Singing Voice Separation</title>
+      <link>https://ecanoc.github.io/publication/talsp20/</link>
+      <pubDate>Tue, 20 Aug 2019 21:56:02 +0800</pubDate>
+      <guid>https://ecanoc.github.io/publication/talsp20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musical Source Separation: An Introduction</title>
+      <link>https://ecanoc.github.io/publication/spm19/</link>
+      <pubDate>Tue, 20 Aug 2019 21:56:02 +0800</pubDate>
+      <guid>https://ecanoc.github.io/publication/spm19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microtiming analyisis in traditional Shetland Fiddle Music</title>
+      <link>https://ecanoc.github.io/publication/ismir19/</link>
+      <pubDate>Tue, 20 Aug 2019 21:55:53 +0800</pubDate>
+      <guid>https://ecanoc.github.io/publication/ismir19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Hearing: A Machine Listening perspective</title>
+      <link>https://ecanoc.github.io/publication/mmsp19/</link>
+      <pubDate>Tue, 20 Aug 2019 21:55:35 +0800</pubDate>
+      <guid>https://ecanoc.github.io/publication/mmsp19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble size classification in Colombian Andean string music recordings</title>
+      <link>https://ecanoc.github.io/publication/cmmr19/</link>
+      <pubDate>Thu, 01 Aug 2019 19:34:03 +0800</pubDate>
+      <guid>https://ecanoc.github.io/publication/cmmr19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
