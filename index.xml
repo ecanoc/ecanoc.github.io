@@ -299,7 +299,7 @@
 
 
 
-&lt;div id=&#34;chart-968543172&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-893714265&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -317,7 +317,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-968543172&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-893714265&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -813,12 +813,22 @@ Parallel 4   :         des6, after des4, 1d
       &lt;input type=&#34;hidden&#34; name=&#34;apiKey&#34; value=sf_7kjdg409lik2756e994290lm&gt;
       &lt;input type=&#34;hidden&#34; name=&#34;subject&#34; value=&#34;New Contact Form Submission&#34;&gt;
       &lt;input type=&#34;hidden&#34; name=&#34;replyTo&#34; value=&#34;@&#34;&gt;
-      &lt;input type=&#34;hidden&#34; name=&#34;redirectTo&#34; value=&#34;https://yoursite.com/thank-you&#34;&gt;
+      &lt;input type=&#34;hidden&#34; name=&#34;redirectTo&#34; value=&#34;https://ecanoc.github.io/thanks&#34;&gt;
       &lt;button type=&#34;submit&#34; class=&#34;submit-btn&#34;&gt;Send Message&lt;/button&gt;
     &lt;/form&gt;
   &lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/thanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/thanks/</guid>
+      <description>&lt;h1 id=&#34;thank-you&#34;&gt;Thank you!&lt;/h1&gt;
+&lt;p&gt;I will be in  touch as soon as I can.&lt;/p&gt;
+</description>
     </item>
     
     <item>
