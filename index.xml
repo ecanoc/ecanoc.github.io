@@ -299,7 +299,7 @@
 
 
 
-&lt;div id=&#34;chart-378562914&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-746519328&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -317,7 +317,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-378562914&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-746519328&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -823,20 +823,11 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title></title>
-      <link>//localhost:1313/thanks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/thanks/</guid>
-      <description>&lt;h1 id=&#34;thank-you&#34;&gt;Thank you!&lt;/h1&gt;
-&lt;p&gt;I will be in  touch as soon as I can.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Patents</title>
       <link>//localhost:1313/patent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/patent/</guid>
-      <description>&lt;ul&gt;
+      <description>&lt;h1 id=&#34;patents&#34;&gt;Patents&lt;/h1&gt;
+&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;US11704360B2: 
 &lt;/strong&gt;&lt;/p&gt;
@@ -846,6 +837,16 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/thanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/thanks/</guid>
+      <description>&lt;h1 id=&#34;thank-you&#34;&gt;Thank you!&lt;/h1&gt;
+&lt;p&gt;I will be in  touch as soon as I can.&lt;/p&gt;
 </description>
     </item>
     

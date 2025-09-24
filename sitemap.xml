@@ -70,6 +70,6 @@
   <url>
     <loc>//localhost:1313/contact/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>//localhost:1313/thanks/</loc><changefreq>weekly</changefreq></url>
+    <loc>//localhost:1313/patent/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>//localhost:1313/patent/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>//localhost:1313/thanks/</loc><changefreq>weekly</changefreq></url></urlset>
