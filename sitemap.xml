@@ -10,15 +10,17 @@
   <url>
     <loc>//localhost:1313/articles/</loc><lastmod>2025-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>//localhost:1313/tags/audio/</loc><lastmod>2025-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>//localhost:1313/tags/audio/</loc><lastmod>2025-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>//localhost:1313/tags/audioxpress/</loc><lastmod>2025-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>//localhost:1313/tags/audioxpress/</loc><lastmod>2025-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>//localhost:1313/articles/ax_styletransfer_nov2025/</loc><lastmod>2025-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>//localhost:1313/tags/</loc><lastmod>2025-11-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>//localhost:1313/articles/ax_lemeter_oct2025/</loc><lastmod>2025-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>//localhost:1313/tags/product-review/</loc><lastmod>2025-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>//localhost:1313/tags/</loc><lastmod>2025-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>//localhost:1313/publication_types/article-journal/</loc><lastmod>2025-07-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

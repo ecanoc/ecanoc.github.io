@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title>Music Style Transfer Explained</title>
+      <link>//localhost:1313/articles/ax_styletransfer_nov2025/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/articles/ax_styletransfer_nov2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nugen Audio DialogCheck: Measuring Speech Clarity</title>
       <link>//localhost:1313/articles/ax_lemeter_oct2025/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
@@ -299,7 +307,7 @@
 
 
 
-&lt;div id=&#34;chart-746519328&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-831247596&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -317,7 +325,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-746519328&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-831247596&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

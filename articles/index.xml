@@ -5,12 +5,20 @@
     <link>//localhost:1313/articles/</link>
       <atom:link href="//localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
     <description>Articles</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>//localhost:1313/media/icon_hu_6af1e0763d98b238.png</url>
       <title>Articles</title>
       <link>//localhost:1313/articles/</link>
     </image>
+    
+    <item>
+      <title>Music Style Transfer Explained</title>
+      <link>//localhost:1313/articles/ax_styletransfer_nov2025/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/articles/ax_styletransfer_nov2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Nugen Audio DialogCheck: Measuring Speech Clarity</title>
